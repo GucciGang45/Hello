@@ -9,5 +9,6 @@ public class Hello {
         hello.sayHello("werwer");
         hello.sayHello("werwer");
         hello.sayHello("master change");
+        hello.sayHello("hot-fix change 1");
     }
 }
