@@ -8,7 +8,5 @@ public class Hello {
         Hello hello = new Hello();
         hello.sayHello("werwer");
         hello.sayHello("werwer");
-        hello.sayHello("werwer");
-        hello.sayHello("werwer");
     }
 }
